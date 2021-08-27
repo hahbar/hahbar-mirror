@@ -1,0 +1,21 @@
+{
+  "folders": [{
+    "path": ".."
+  }],
+  "settings": {
+    "cSpell.words": [
+      "browserslist",
+      "get",
+      "hahbar",
+      "mirror",
+      "noopener",
+      "noreferrer",
+      "ttfb"
+    ],
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+  }
+}
