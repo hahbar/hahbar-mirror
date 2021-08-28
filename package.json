@@ -1,5 +1,6 @@
 {
   "name": "hahbar-mirror",
+  "homepage": "https://hahbar.github.io/hahbar-mirror",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
