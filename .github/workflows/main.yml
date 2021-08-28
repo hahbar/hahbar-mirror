@@ -1,0 +1,31 @@
+name: 'CI'
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  CI:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛎️ Checkout
+        uses: actions/checkout@master
+
+      - name: 👷 Install
+        run: yarn
+        env:
+          CI: true
+
+      - name: 🧪 Test
+        run: yarn test
+        env:
+          CI: true
+
+      - name: 🚀 Build and Deploy 
+        uses: JamesIves/github-pages-deploy-action@master
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
+          BUILD_SCRIPT: yarn build
