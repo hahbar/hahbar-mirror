@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <code>src/App.tsx</code>
+        Coming soon...
       </header>
     </div>
   );
