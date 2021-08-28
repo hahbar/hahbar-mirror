@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hahbar-mirror/static/css/main.a617e044.chunk.css",
-    "main.js": "/hahbar-mirror/static/js/main.dbc7761c.chunk.js",
-    "main.js.map": "/hahbar-mirror/static/js/main.dbc7761c.chunk.js.map",
+    "main.js": "/hahbar-mirror/static/js/main.d12d5a21.chunk.js",
+    "main.js.map": "/hahbar-mirror/static/js/main.d12d5a21.chunk.js.map",
     "runtime-main.js": "/hahbar-mirror/static/js/runtime-main.b5680e02.js",
     "runtime-main.js.map": "/hahbar-mirror/static/js/runtime-main.b5680e02.js.map",
     "static/js/2.5049fd37.chunk.js": "/hahbar-mirror/static/js/2.5049fd37.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.237628dd.chunk.js.map": "/hahbar-mirror/static/js/3.237628dd.chunk.js.map",
     "index.html": "/hahbar-mirror/index.html",
     "static/css/main.a617e044.chunk.css.map": "/hahbar-mirror/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5049fd37.chunk.js.LICENSE.txt": "/hahbar-mirror/static/js/2.5049fd37.chunk.js.LICENSE.txt",
-    "static/media/logo.9bbfa1f8.svg": "/hahbar-mirror/static/media/logo.9bbfa1f8.svg"
+    "static/js/2.5049fd37.chunk.js.LICENSE.txt": "/hahbar-mirror/static/js/2.5049fd37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b5680e02.js",
     "static/js/2.5049fd37.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.dbc7761c.chunk.js"
+    "static/js/main.d12d5a21.chunk.js"
   ]
 }
