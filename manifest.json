@@ -1,6 +1,6 @@
 {
-  short_name: 'React App',
-  name: 'Create React App Sample',
+  short_name: 'Mirrorball',
+  name: 'Hahbar mirrorball',
   icons: [
     {
       src: 'favicon.ico',
