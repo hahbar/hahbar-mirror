@@ -1,6 +1,6 @@
 {
-  "name": "hahbar-mirror",
-  "homepage": "https://hahbar.github.io/hahbar-mirror",
+  "name": "mirrorball",
+  "homepage": "https://hahbar.github.io/mirrorball",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
