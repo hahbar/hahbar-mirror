@@ -1,6 +1,6 @@
 # Hahbar Mirrorball
 
-A web app for querying information on the Hedera Hashgraph network using the [public mirror node](https://docs.hedera.com/guides/docs/mirror-node-api/cryptocurrency-api).
+A web app for finding information on the Hedera Hashgraph network using the [public mirror node](https://docs.hedera.com/guides/docs/mirror-node-api/cryptocurrency-api).
 
 Have an idea for a function? Add it for [discussion](https://github.com/hahbar/mirrorball/discussions) and we'll see if it's possible.
 
@@ -45,5 +45,4 @@ $ react-scripts test
 yarn run v1.22.4
 $ react-scripts start
 ...
-
 ```
