@@ -1,9 +1,9 @@
 import React from 'react';
-import { render, screen } from '@testing-library/react';
+import { providerWrapper } from './utils/testUtils';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/Coming soon.../i);
+test('renders coming soon header', () => {
+  const rendered = providerWrapper(<App />);
+  const linkElement = rendered.getByText(/Coming soon.../i);
   expect(linkElement).toBeInTheDocument();
 });
