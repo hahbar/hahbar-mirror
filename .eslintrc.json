@@ -19,7 +19,8 @@
   "plugins": [
     "react",
     "react-hooks",
-    "@typescript-eslint"
+    "@typescript-eslint",
+    "formatjs"
   ],
   "rules": {
     "react-hooks/rules-of-hooks": "error",
@@ -46,7 +47,8 @@
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "@typescript-eslint/no-use-before-define": [
       "error"
-    ]
+    ],
+    "formatjs/no-offset": "error"
   },
   "settings": {
     "import/resolver": {
